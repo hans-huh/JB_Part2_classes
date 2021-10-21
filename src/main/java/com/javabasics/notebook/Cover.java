@@ -6,6 +6,8 @@ public class Cover {
     private String pathToImage;
     private BufferedImage image;
 
+    public Cover() {}
+
     // getters
 
     // setters
