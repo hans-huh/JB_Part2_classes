@@ -20,6 +20,9 @@ public class Student {
     }
 
     // getters
+    public String getStudentID(){
+        return studentID;
+    }
 
     // setters
 
