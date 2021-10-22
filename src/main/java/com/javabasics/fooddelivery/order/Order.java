@@ -7,10 +7,11 @@ import com.javabasics.fooddelivery.people.DeliveryEmployee;
 import java.util.Map;
 
 public class Order {
+    private String orderID;
     private Client client;
+    private String addressToDeliver;
     private Map<FoodItem, Integer> foodItemsToDeliver;
     private double totalPriceToCharge;
-    private String addressToDeliver;
     private boolean isOrderActive;
     private DeliveryEmployee deliveryEmployee;
 }
