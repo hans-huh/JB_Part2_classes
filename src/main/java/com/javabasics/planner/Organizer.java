@@ -6,12 +6,11 @@ import java.util.UUID;
 public class Organizer {
     private String organizerID;
     private User organizerUser;
+    private ArrayList<Task> plannedTasks;
 
     public Organizer() {
         organizerID = UUID.randomUUID().toString();
     }
-
-    private ArrayList<Task> plannedTasks;
 
     // getters
 
