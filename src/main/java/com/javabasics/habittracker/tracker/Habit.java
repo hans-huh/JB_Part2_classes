@@ -1,4 +1,4 @@
-package com.javabasics.habittracker;
+package com.javabasics.habittracker.tracker;
 
 import java.util.UUID;
 
