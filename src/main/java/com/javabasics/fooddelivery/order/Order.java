@@ -9,6 +9,7 @@ public class Order {
     private Client client;
     private Map<FoodItem, Integer> foodItemsToDeliver;
     private double totalPriceToCharge;
+    private String addressToDeliver;
     private boolean isOrderActive;
     private DeliveryEmployee deliveryEmployee;
 }
