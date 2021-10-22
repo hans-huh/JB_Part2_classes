@@ -1,5 +1,7 @@
 package com.javabasics.fooddelivery.people;
 
+import com.javabasics.fooddelivery.Order;
+
 import java.util.ArrayList;
 
 public class Client {
