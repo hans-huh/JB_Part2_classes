@@ -1,6 +1,6 @@
 package com.javabasics.fooddelivery.people;
 
-import com.javabasics.fooddelivery.Order;
+import com.javabasics.fooddelivery.order.Order;
 
 import java.util.ArrayList;
 
