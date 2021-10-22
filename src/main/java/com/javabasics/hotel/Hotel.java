@@ -1,6 +1,7 @@
 package com.javabasics.hotel;
 
-import java.util.ArrayList;
+import com.javabasics.hotel.rooms.Room;
+
 import java.util.Map;
 
 public class Hotel {

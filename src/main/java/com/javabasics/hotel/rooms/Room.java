@@ -1,4 +1,4 @@
-package com.javabasics.hotel;
+package com.javabasics.hotel.rooms;
 
 public class Room {
     private String roomNumber;

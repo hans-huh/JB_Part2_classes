@@ -1,4 +1,4 @@
-package com.javabasics.hotel;
+package com.javabasics.hotel.people.staff;
 
 public class Employee {
     private String employeeID;

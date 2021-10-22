@@ -1,4 +1,4 @@
-package com.javabasics.hotel;
+package com.javabasics.hotel.people.clients;
 
 public class Guest {
     private String guestID;
